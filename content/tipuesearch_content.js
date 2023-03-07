@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲\xa0 https://github.com/mdecd2023/2a-pj1ag8 \xa0 \n 網頁\xa0 https://mdecd2023.github.io/2a-pj1ag8/ \xa0 \n 組員 41023102王郁淳 41023107林廷芸', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲\xa0 https://github.com/mdecd2023/2a-pj1ag8 \xa0 \n 網頁\xa0 https://mdecd2023.github.io/2a-pj1ag8/ \xa0 \n 組員 41023102王郁淳 41023107林廷芸 \n', 'tags': '', 'url': 'About.html'}, {'title': 'portable', 'text': '如何製作可攜程式?', 'tags': '', 'url': 'portable.html'}]};
